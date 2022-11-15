@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\dev\BALANCED_PARENTHESES\BALANCED_PARENTHESES\main.cpp(8,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BALANCED_PARENTHESES.vcxproj -> C:\dev\BALANCED_PARENTHESES\x64\Debug\BALANCED_PARENTHESES.exe
